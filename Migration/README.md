@@ -57,12 +57,12 @@ Your GitHub Personal Access Tokens need the following permissions:
 
 **Source Token:**
 - `repo` (Full control of private repositories)
-- `admin:org` (Read org membership)
+- `admin:org` (Full control of orgs and teams)
 - `read:user` (Read user profile data)
 
 **Target Token:**
 - `repo` (Full control of private repositories)
-- `admin:org` (Read org membership)
+- `admin:org` (Full control of orgs and teams)
 - `user` (Update user data)
 
 ### 3. Repository List
